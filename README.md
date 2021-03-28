@@ -7,4 +7,4 @@ Built using vanilla JavaScript and DOM (Document Object Model) manipulation. (Pe
 
 Hosted at https://nishi-p.github.io/Dice-Game/
 
-Images are not by own.
+Images are not my own.
